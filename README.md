@@ -28,8 +28,8 @@ The dashboard includes the following key visualizations:
 - Sales by Sub-Category: Bar chart showing sales figures for various product sub-categories (e.g., Phones, Chairs, Binders, Storage).
 ## Key Metrics
 - Orders: Total number of orders placed (22K).
-- Sales: Total sales amount (Rs. 1.6M).
-- Profit: Total profit generated (Rs. 175K).
+- Sales: Total sales amount ($1.6M).
+- Profit: Total profit generated ($175K).
 ## How to Use
 - Filter Data: Use the filters at the top of the dashboard to narrow down the data by specific criteria such as region (Central, East, South, West).
 - Interactive Elements: Click on elements within the visualizations to drill down into more detailed data or view related metrics.
